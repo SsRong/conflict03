@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("master test");
         System.out.println("conflict master");
+        System.out.println("dev test");
     }
 }
